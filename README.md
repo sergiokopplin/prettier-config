@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/%40kopplin%2Fprettier-config.svg)](https://badge.fury.io/js/%40kopplin%2Fprettier-config)
 
-Kopplin's shared [Prettier](https://prettier.io) configuration.
+Kopplin's shared [Prettier](https://prettier.io) configuration
 
 ## Usage
 
