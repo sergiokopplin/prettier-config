@@ -1,0 +1,23 @@
+{
+  "name": "@kopplin/prettier-config",
+  "version": "0.1.0",
+  "description": "Shared prettier config",
+  "author": "Sérgio Kopplin <sergiokopplin@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiokopplin/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sergiokopplin/prettier-config/issues"
+  },
+  "homepage": "https://github.com/sergiokopplin/prettier-config",
+  "main": "prettier.json",
+  "files": [
+    "prettier.json"
+  ],
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "license": "MIT"
+}
